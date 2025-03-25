@@ -58,8 +58,4 @@ Guess My Number is a quick, fun, and easy opening game to lead with a small grou
 
 
 
-<td>Facebook<br><a href="https://www.instagram.com/fixslayrxx/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="50" title="Facebook" /></a><br></td>
-
-
-
 
